@@ -1,5 +1,5 @@
-<h3>Muito Prazer, meu nome é Giovani.</h3> 
-<h4>Tenho 18 anos, faço faculdade de Ciência da Computação e sou desenvolvedor front-end.</h4>
+<h3>Muito Prazer, meu nome é Renê Giovani.</h3> 
+<h4>Tenho 19 anos, faço faculdade de Ciência da Computação e sou desenvolvedor full stack.</h4>
 
 ##
 
